@@ -45,7 +45,7 @@ Cette procédure a ensuite été automatisée en script Bash, testée et adapté
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/ImNvthan/lamp-debian-installer.git
+git clone https://github.com/nathan-drancourt/lamp-debian-installer.git
 cd lamp-debian-installer
 chmod +x install-lamp.sh
 sudo ./install-lamp.sh
