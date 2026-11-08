@@ -1,5 +1,7 @@
 # 🚀 LAMP Debian Installer
 
+![Aperçu du projet lamp-debian-installer](docs/banner.png)
+
 ![Debian](https://img.shields.io/badge/Debian-11%2F12-red)
 ![Bash](https://img.shields.io/badge/Bash-Automation-blue)
 ![Status](https://img.shields.io/badge/status-working-green)
